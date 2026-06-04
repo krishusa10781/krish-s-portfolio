@@ -23,7 +23,7 @@ SQL, Python (pandas, scikit‑learn), Jupyter, Tableau or Power BI
 
 ---
 
-### 2. Sales Forecasting
+# 2. Sales Forecasting
 **Goal**  
 Produce reliable short‑term forecasts to inform inventory and staffing decisions.
 
@@ -44,7 +44,7 @@ SQL, Python (statsmodels, Prophet), Airflow or scheduled scripts, Power BI
 
 ---
 
-### 3. Product Marketing Dashboard
+# 3. Product Marketing Dashboard
 **Goal**  
 Build an interactive dashboard that tracks core KPIs and surfaces anomalies for stakeholders.
 
@@ -64,7 +64,7 @@ SQL, dbt (optional), Tableau or Power BI, lightweight API for refresh
 
 ---
 
-### 4. Fraud Detection and Anomaly Detection
+# 4. Fraud Detection and Anomaly Detection
 **Goal**  
 Detect anomalous transactions with a precision‑focused pipeline and monitoring playbook.
 
@@ -85,7 +85,7 @@ Python (scikit‑learn, isolation forest), SQL, Grafana or Tableau
 
 ---
 
-### 5. A B Test Analysis and Causal Inference
+# 5. A B Test Analysis and Causal Inference
 **Goal**  
 Design and analyze experiments to measure treatment lift and business impact.
 
