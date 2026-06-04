@@ -1,7 +1,7 @@
 # krish-s-portfolio
 
 
-### 1. Customer Churn Analysis
+# 1. Customer Churn Analysis
 **Goal**  
 Identify drivers of churn and build a churn risk score to prioritize retention outreach.
 
